@@ -24,6 +24,19 @@ body{
 }
 h2{
     color: white;
-    backdrop-filter: blur(5px);
+    
+    
+    padding-left: 600px;
+    margin-left:10px;
     width: 250px;
+    
+}
+h1{
+    color: white;
+    justify-content: center;
+  
+    padding-left: 600px;
+    -webkit-backdrop-filter: saturate(50px);
+
+
 }
