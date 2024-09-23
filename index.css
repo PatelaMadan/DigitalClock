@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    background-image: url(timeSquare.avif);
+    background-repeat: no-repeat;
+    background-position: center;
+
+
+}
+#clck_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+#clock{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 6.5rem;
+    font-weight: bolder;
+    text-align: center;
+    color: white;
+    backdrop-filter: blur(5px);
+    width: 100%;
+}
+h2{
+    color: white;
+    backdrop-filter: blur(5px);
+    width: 250px;
+}
